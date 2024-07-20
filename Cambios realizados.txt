@@ -1,0 +1,5 @@
+Cambios realizados:
+Implementación de la función calc_determinante utilizando la descomposición LU para calcular el determinante.
+Conversión de la lista A a un array de NumPy para facilitar las operaciones matemáticas.
+Llamada a la función descomposicion_LU para obtener las matrices L y U.
+Cálculo del determinante como el producto de los elementos diagonales de la matriz U.
